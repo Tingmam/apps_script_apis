@@ -1,0 +1,1 @@
+var kABDateProperty: _ABPropertyType { get }
