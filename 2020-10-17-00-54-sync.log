@@ -1,0 +1,666 @@
+Version: 23.0.12 *
+OS: 14.0.1
+Device: iPhone
+06744644-0040-4331-A27C-D207AFFA3013
+
+2020-10-15T14:19:10-0400 : Sync Process Started
+2020-10-15T14:19:10-0400 : No Pending Inserts
+2020-10-15T14:19:10-0400 : No Pending Updates
+2020-10-15T14:19:10-0400 : Download Token Updated, Changes Saved
+2020-10-15T14:19:10-0400 : Sync Process Finished
+2020-10-15T14:19:32-0400 : Sync Process Started
+2020-10-15T14:19:32-0400 : No Pending Inserts
+2020-10-15T14:19:32-0400 : No Pending Updates
+2020-10-15T14:19:32-0400 : Download Token Updated, Changes Saved
+2020-10-15T14:19:32-0400 : Sync Process Finished
+2020-10-15T14:19:49-0400 : CT:: update, storage|--|markdownSettings|-|Current - 2020-09-29 22:11:00 +0000
+2020-10-15T14:19:51-0400 : Sync Process Started
+2020-10-15T14:19:51-0400 : No Pending Inserts
+2020-10-15T14:19:51-0400 : Update Fetch Complete
+2020-10-15T14:19:51-0400 : Updated storage|--|markdownSettings|-|Current
+2020-10-15T14:19:51-0400 : Updates Complete
+2020-10-15T14:19:52-0400 : Download Skipped, Matching changeTag: storage|--|markdownSettings|-|Current
+2020-10-15T14:19:52-0400 : Download Token Updated, Changes Saved
+2020-10-15T14:19:52-0400 : Sync Process Finished
+2020-10-15T14:20:14-0400 : Sync Process Started
+2020-10-15T14:20:14-0400 : No Pending Inserts
+2020-10-15T14:20:14-0400 : No Pending Updates
+2020-10-15T14:20:14-0400 : Download Token Updated, Changes Saved
+2020-10-15T14:20:14-0400 : Sync Process Finished
+2020-10-15T14:20:17-0400 : CT:: insert, storage|--|captureTemplate|-| - 2020-10-15 18:20:17 +0000)
+2020-10-15T14:20:19-0400 : Sync Process Started
+2020-10-15T14:20:19-0400 : Inserted storage|--|captureTemplate|-|
+2020-10-15T14:20:19-0400 : Inserts Complete
+2020-10-15T14:20:19-0400 : No Pending Updates
+2020-10-15T14:20:19-0400 : Download Skipped, Matching changeTag: storage|--|captureTemplate|-|
+2020-10-15T14:20:19-0400 : Download Token Updated, Changes Saved
+2020-10-15T14:20:19-0400 : Sync Process Finished
+2020-10-15T14:20:32-0400 : Sync Process Started
+2020-10-15T14:20:32-0400 : No Pending Inserts
+2020-10-15T14:20:32-0400 : No Pending Updates
+2020-10-15T14:20:34-0400 : Download Token Updated, Changes Saved
+2020-10-15T14:20:34-0400 : Sync Process Finished
+2020-10-15T14:20:36-0400 : Sync Process Started
+2020-10-15T14:20:36-0400 : No Pending Inserts
+2020-10-15T14:20:36-0400 : No Pending Updates
+2020-10-15T14:20:39-0400 : Download Token Updated, Changes Saved
+2020-10-15T14:20:39-0400 : Sync Process Finished
+2020-10-15T14:24:28-0400 : CT:: insert, draft|--|A1FFAC33-FACB-421B-9D9C-C9BF42A3FACF - 2020-10-15 18:24:27 +0000)
+2020-10-15T14:24:28-0400 : Reachability: WiFi
+2020-10-15T15:16:19-0400 : CT:: update, draft|--|BEEB7EC5-099D-4967-BCDF-40842D0EACFA - 2020-10-15 19:16:19 +0000
+2020-10-15T15:16:19-0400 : Reachability: Cellular
+2020-10-15T15:16:20-0400 : Sync Process Started
+2020-10-15T15:16:21-0400 : Inserted draft|--|A1FFAC33-FACB-421B-9D9C-C9BF42A3FACF
+2020-10-15T15:16:21-0400 : Inserts Complete
+2020-10-15T15:16:22-0400 : Update Fetch Complete
+2020-10-15T15:16:22-0400 : Updated draft|--|BEEB7EC5-099D-4967-BCDF-40842D0EACFA
+2020-10-15T15:16:22-0400 : Updates Complete
+2020-10-15T15:16:22-0400 : Download Skipped, Matching changeTag: draft|--|A1FFAC33-FACB-421B-9D9C-C9BF42A3FACF
+2020-10-15T15:16:22-0400 : Download Skipped, Matching changeTag: draft|--|BEEB7EC5-099D-4967-BCDF-40842D0EACFA
+2020-10-15T15:16:22-0400 : Download Token Updated, Changes Saved
+2020-10-15T15:16:22-0400 : Sync Process Finished
+2020-10-15T15:16:44-0400 : Sync Process Started
+2020-10-15T15:16:44-0400 : No Pending Inserts
+2020-10-15T15:16:44-0400 : No Pending Updates
+2020-10-15T15:16:44-0400 : Download Token Updated, Changes Saved
+2020-10-15T15:16:44-0400 : Sync Process Finished
+2020-10-15T15:16:46-0400 : CT:: insert, draftVersion|--|4AF2CBBD-6519-4989-8592-29AE832B1EF4 - 2020-10-15 19:16:46 +0000)
+2020-10-15T15:16:47-0400 : Sync Process Started
+2020-10-15T15:16:47-0400 : Inserted draftVersion|--|4AF2CBBD-6519-4989-8592-29AE832B1EF4
+2020-10-15T15:16:47-0400 : Inserts Complete
+2020-10-15T15:16:47-0400 : No Pending Updates
+2020-10-15T15:16:48-0400 : Download Skipped, Matching changeTag: draftVersion|--|4AF2CBBD-6519-4989-8592-29AE832B1EF4
+2020-10-15T15:16:48-0400 : Download Token Updated, Changes Saved
+2020-10-15T15:16:48-0400 : Sync Process Finished
+2020-10-15T15:17:10-0400 : Sync Process Started
+2020-10-15T15:17:10-0400 : No Pending Inserts
+2020-10-15T15:17:10-0400 : No Pending Updates
+2020-10-15T15:17:11-0400 : Download Token Updated, Changes Saved
+2020-10-15T15:17:11-0400 : Sync Process Finished
+2020-10-15T15:17:32-0400 : Sync Process Started
+2020-10-15T15:17:33-0400 : No Pending Inserts
+2020-10-15T15:17:33-0400 : No Pending Updates
+2020-10-15T15:17:33-0400 : Download Token Updated, Changes Saved
+2020-10-15T15:17:33-0400 : Sync Process Finished
+2020-10-15T15:17:37-0400 : Sync Process Started
+2020-10-15T15:17:37-0400 : No Pending Inserts
+2020-10-15T15:17:37-0400 : No Pending Updates
+2020-10-15T15:17:39-0400 : Download Token Updated, Changes Saved
+2020-10-15T15:17:39-0400 : Sync Process Finished
+2020-10-15T16:46:15-0400 : CT:: update, draft|--|C9BEFD10-0910-488D-9A3F-601383B9C143 - 2020-10-15 20:46:15 +0000
+2020-10-15T16:46:16-0400 : Sync Process Started
+2020-10-15T16:46:16-0400 : No Pending Inserts
+2020-10-15T16:46:17-0400 : Update Fetch Complete
+2020-10-15T16:46:17-0400 : Updated draft|--|C9BEFD10-0910-488D-9A3F-601383B9C143
+2020-10-15T16:46:17-0400 : Updates Complete
+2020-10-15T16:46:17-0400 : Download Skipped, Matching changeTag: draft|--|C9BEFD10-0910-488D-9A3F-601383B9C143
+2020-10-15T16:46:17-0400 : Download Token Updated, Changes Saved
+2020-10-15T16:46:17-0400 : Sync Process Finished
+2020-10-15T16:46:18-0400 : CT:: insert, draftVersion|--|0445BBDB-2017-4788-8256-20730FD778B7 - 2020-10-15 20:46:18 +0000)
+2020-10-15T16:46:18-0400 : Sync Process Started
+2020-10-15T16:46:19-0400 : Inserted draftVersion|--|0445BBDB-2017-4788-8256-20730FD778B7
+2020-10-15T16:46:19-0400 : Inserts Complete
+2020-10-15T16:46:19-0400 : No Pending Updates
+2020-10-15T16:46:19-0400 : Download Skipped, Matching changeTag: draftVersion|--|0445BBDB-2017-4788-8256-20730FD778B7
+2020-10-15T16:46:19-0400 : Download Token Updated, Changes Saved
+2020-10-15T16:46:19-0400 : Sync Process Finished
+2020-10-15T16:46:41-0400 : CT:: update, draft|--|C9BEFD10-0910-488D-9A3F-601383B9C143 - 2020-10-15 20:46:41 +0000
+2020-10-15T16:46:41-0400 : Reachability: Cellular
+2020-10-15T16:46:41-0400 : Reachability: Cellular
+2020-10-15T16:46:41-0400 : Account Status: Available
+2020-10-15T16:46:41-0400 : Setup needed: QoS 9
+2020-10-15T16:46:41-0400 : Account Status: Available
+2020-10-15T16:46:41-0400 : Fetch User Success
+
+2020-10-15T16:46:42-0400 : Zones Exists
+2020-10-15T16:46:42-0400 : Sync Process Started
+2020-10-15T16:46:42-0400 : No Pending Inserts
+2020-10-15T16:46:42-0400 : Zones Exists
+2020-10-15T16:46:42-0400 : Sync in progress, Skip, Last Start: Optional(2020-10-15 20:46:42 +0000)
+2020-10-15T16:46:42-0400 : Update Fetch Complete
+2020-10-15T16:46:43-0400 : Updated draft|--|C9BEFD10-0910-488D-9A3F-601383B9C143
+2020-10-15T16:46:43-0400 : Updates Complete
+2020-10-15T16:46:43-0400 : Download Skipped, Matching changeTag: draft|--|C9BEFD10-0910-488D-9A3F-601383B9C143
+2020-10-15T16:46:43-0400 : Download Token Updated, Changes Saved
+2020-10-15T16:46:43-0400 : Sync Process Finished
+2020-10-15T16:46:48-0400 : CT:: update, draft|--|C9BEFD10-0910-488D-9A3F-601383B9C143 - 2020-10-15 20:46:48 +0000
+2020-10-15T16:46:48-0400 : Sync Process Started
+2020-10-15T16:46:48-0400 : No Pending Inserts
+2020-10-15T16:46:49-0400 : Sync in progress, Skip, Last Start: Optional(2020-10-15 20:46:48 +0000)
+2020-10-15T16:46:49-0400 : Update Fetch Complete
+2020-10-15T16:46:50-0400 : Updated draft|--|C9BEFD10-0910-488D-9A3F-601383B9C143
+2020-10-15T16:46:50-0400 : Updates Complete
+2020-10-15T16:46:50-0400 : Download Skipped, Matching changeTag: draft|--|C9BEFD10-0910-488D-9A3F-601383B9C143
+2020-10-15T16:46:50-0400 : Download Token Updated, Changes Saved
+2020-10-15T16:46:50-0400 : Sync Process Finished
+2020-10-15T22:47:54-0400 : CT:: insert, draft|--|8AAC49DD-E76E-40D7-A006-B314517379BC - 2020-10-16 02:47:54 +0000)
+2020-10-15T22:47:54-0400 : Reachability: Cellular
+2020-10-15T22:48:13-0400 : CT:: update, draft|--|C9BEFD10-0910-488D-9A3F-601383B9C143 - 2020-10-16 02:48:13 +0000
+2020-10-15T22:48:14-0400 : Account Status: Available
+2020-10-15T22:48:14-0400 : Reachability: Cellular
+2020-10-15T22:48:14-0400 : Setup needed: QoS 9
+2020-10-15T22:48:14-0400 : Fetch User Success
+2020-10-15T22:48:15-0400 : Zones Exists
+2020-10-15T22:48:15-0400 : Sync Process Started
+2020-10-15T22:48:15-0400 : Inserted draft|--|8AAC49DD-E76E-40D7-A006-B314517379BC
+2020-10-15T22:48:15-0400 : Inserts Complete
+2020-10-15T22:48:15-0400 : Update Fetch Complete
+2020-10-15T22:48:16-0400 : Updated draft|--|C9BEFD10-0910-488D-9A3F-601383B9C143
+2020-10-15T22:48:16-0400 : Updates Complete
+2020-10-15T22:48:16-0400 : Download Skipped, Matching changeTag: draft|--|8AAC49DD-E76E-40D7-A006-B314517379BC
+2020-10-15T22:48:16-0400 : Download Skipped, Matching changeTag: draft|--|C9BEFD10-0910-488D-9A3F-601383B9C143
+2020-10-15T22:48:16-0400 : Download Token Updated, Changes Saved
+2020-10-15T22:48:16-0400 : Sync Process Finished
+2020-10-15T22:48:33-0400 : CT:: insert, draft|--|BC103BEF-4772-43ED-8497-431FDADB46DA - 2020-10-16 02:48:33 +0000)
+2020-10-15T22:48:34-0400 : Sync Process Started
+2020-10-15T22:48:34-0400 : Inserted draft|--|BC103BEF-4772-43ED-8497-431FDADB46DA
+2020-10-15T22:48:34-0400 : Inserts Complete
+2020-10-15T22:48:34-0400 : No Pending Updates
+2020-10-15T22:48:35-0400 : Download Skipped, Matching changeTag: draft|--|BC103BEF-4772-43ED-8497-431FDADB46DA
+2020-10-15T22:48:35-0400 : Download Token Updated, Changes Saved
+2020-10-15T22:48:35-0400 : Sync Process Finished
+2020-10-15T22:48:36-0400 : CT:: insert, draftVersion|--|ED28A529-4571-42FC-9264-137AF06BDC75 - 2020-10-16 02:48:36 +0000)
+2020-10-15T22:48:36-0400 : Sync Process Started
+2020-10-15T22:48:37-0400 : Inserted draftVersion|--|ED28A529-4571-42FC-9264-137AF06BDC75
+2020-10-15T22:48:37-0400 : Inserts Complete
+2020-10-15T22:48:37-0400 : No Pending Updates
+2020-10-15T22:48:37-0400 : Sync in progress, Skip, Last Start: Optional(2020-10-16 02:48:36 +0000)
+2020-10-15T22:48:37-0400 : Download Skipped, Matching changeTag: draftVersion|--|ED28A529-4571-42FC-9264-137AF06BDC75
+2020-10-15T22:48:37-0400 : Download Token Updated, Changes Saved
+2020-10-15T22:48:37-0400 : Sync Process Finished
+2020-10-15T22:48:41-0400 : CT:: update, draft|--|BC103BEF-4772-43ED-8497-431FDADB46DA - 2020-10-16 02:48:41 +0000
+2020-10-15T22:48:42-0400 : Sync Process Started
+2020-10-15T22:48:42-0400 : No Pending Inserts
+2020-10-15T22:48:42-0400 : Update Fetch Complete
+2020-10-15T22:48:43-0400 : Sync in progress, Skip, Last Start: Optional(2020-10-16 02:48:41 +0000)
+2020-10-15T22:48:44-0400 : Updated draft|--|BC103BEF-4772-43ED-8497-431FDADB46DA
+2020-10-15T22:48:44-0400 : Updates Complete
+2020-10-15T22:48:45-0400 : Download Skipped, Matching changeTag: draft|--|BC103BEF-4772-43ED-8497-431FDADB46DA
+2020-10-15T22:48:45-0400 : Download Token Updated, Changes Saved
+2020-10-15T22:48:45-0400 : Sync Process Finished
+2020-10-15T23:00:01-0400 : CT:: insert, draft|--|53C8068D-BFE9-4DD0-8BD7-DE3441F21379 - 2020-10-16 03:00:01 +0000)
+2020-10-15T23:00:01-0400 : Reachability: Cellular
+2020-10-15T23:00:24-0400 : CT:: insert, draft|--|1F66B53F-B8DC-4D14-AA1D-5FFFB968864E - 2020-10-16 03:00:24 +0000)
+2020-10-15T23:00:42-0400 : CT:: insert, draft|--|0BA93C16-D20A-41ED-8711-5555D08CA639 - 2020-10-16 03:00:42 +0000)
+2020-10-15T23:00:53-0400 : CT:: insert, draft|--|77315BB1-CBE6-4BCA-8C30-8B473F4F1466 - 2020-10-16 03:00:53 +0000)
+2020-10-15T23:02:35-0400 : CT:: insert, draft|--|595E0532-68EF-4A4F-8377-17A3F710F86D - 2020-10-16 03:02:35 +0000)
+2020-10-15T23:02:35-0400 : Reachability: Cellular
+2020-10-15T23:05:22-0400 : Account Status: Available
+2020-10-15T23:05:23-0400 : Reachability: Cellular
+2020-10-15T23:05:23-0400 : Setup needed: QoS 9
+2020-10-15T23:05:23-0400 : Fetch User Success
+2020-10-15T23:05:24-0400 : CT:: update, draft|--|BC103BEF-4772-43ED-8497-431FDADB46DA - 2020-10-16 03:05:24 +0000
+2020-10-15T23:05:24-0400 : Zones Exists
+2020-10-15T23:05:24-0400 : Sync Process Started
+2020-10-15T23:05:25-0400 : Inserted draft|--|53C8068D-BFE9-4DD0-8BD7-DE3441F21379
+2020-10-15T23:05:25-0400 : Inserted draft|--|1F66B53F-B8DC-4D14-AA1D-5FFFB968864E
+2020-10-15T23:05:25-0400 : Inserted draft|--|0BA93C16-D20A-41ED-8711-5555D08CA639
+2020-10-15T23:05:25-0400 : Inserted draft|--|77315BB1-CBE6-4BCA-8C30-8B473F4F1466
+2020-10-15T23:05:25-0400 : Inserted draft|--|595E0532-68EF-4A4F-8377-17A3F710F86D
+2020-10-15T23:05:25-0400 : Inserts Complete
+2020-10-15T23:05:25-0400 : Sync in progress, Skip, Last Start: Optional(2020-10-16 03:05:24 +0000)
+2020-10-15T23:05:25-0400 : Update Fetch Complete
+2020-10-15T23:05:26-0400 : Updated draft|--|BC103BEF-4772-43ED-8497-431FDADB46DA
+2020-10-15T23:05:26-0400 : Updates Complete
+2020-10-15T23:05:26-0400 : Download Skipped, Matching changeTag: draft|--|0BA93C16-D20A-41ED-8711-5555D08CA639
+2020-10-15T23:05:26-0400 : Download Skipped, Matching changeTag: draft|--|BC103BEF-4772-43ED-8497-431FDADB46DA
+2020-10-15T23:05:26-0400 : Download Skipped, Matching changeTag: draft|--|1F66B53F-B8DC-4D14-AA1D-5FFFB968864E
+2020-10-15T23:05:26-0400 : Download Skipped, Matching changeTag: draft|--|595E0532-68EF-4A4F-8377-17A3F710F86D
+2020-10-15T23:05:26-0400 : Download Skipped, Matching changeTag: draft|--|53C8068D-BFE9-4DD0-8BD7-DE3441F21379
+2020-10-15T23:05:26-0400 : Download Skipped, Matching changeTag: draft|--|77315BB1-CBE6-4BCA-8C30-8B473F4F1466
+2020-10-15T23:05:26-0400 : Download Token Updated, Changes Saved
+2020-10-15T23:05:26-0400 : Sync Process Finished
+2020-10-15T23:05:29-0400 : CT:: insert, draft|--|31FA2CD9-C835-47AF-A87A-E9FC0E9C7E92 - 2020-10-16 03:05:29 +0000)
+2020-10-15T23:05:30-0400 : CT:: insert, draftVersion|--|5ED6F6D4-9A7B-470A-BCF2-DC977B83120A - 2020-10-16 03:05:30 +0000)
+2020-10-15T23:05:31-0400 : Sync Process Started
+2020-10-15T23:05:32-0400 : Inserted draft|--|31FA2CD9-C835-47AF-A87A-E9FC0E9C7E92
+2020-10-15T23:05:32-0400 : Inserted draftVersion|--|5ED6F6D4-9A7B-470A-BCF2-DC977B83120A
+2020-10-15T23:05:32-0400 : Inserts Complete
+2020-10-15T23:05:32-0400 : No Pending Updates
+2020-10-15T23:05:32-0400 : Download Skipped, Matching changeTag: draft|--|31FA2CD9-C835-47AF-A87A-E9FC0E9C7E92
+2020-10-15T23:05:32-0400 : Download Skipped, Matching changeTag: draftVersion|--|5ED6F6D4-9A7B-470A-BCF2-DC977B83120A
+2020-10-15T23:05:32-0400 : Download Token Updated, Changes Saved
+2020-10-15T23:05:32-0400 : Sync Process Finished
+2020-10-15T23:05:54-0400 : Sync Process Started
+2020-10-15T23:05:54-0400 : No Pending Inserts
+2020-10-15T23:05:54-0400 : No Pending Updates
+2020-10-15T23:05:55-0400 : Download Token Updated, Changes Saved
+2020-10-15T23:05:55-0400 : Sync Process Finished
+2020-10-15T23:06:14-0400 : CT:: update, draft|--|31FA2CD9-C835-47AF-A87A-E9FC0E9C7E92 - 2020-10-16 03:06:14 +0000
+2020-10-15T23:06:15-0400 : Sync Process Started
+2020-10-15T23:06:15-0400 : No Pending Inserts
+2020-10-15T23:06:16-0400 : Update Fetch Complete
+2020-10-15T23:06:16-0400 : CT:: update, draft|--|31FA2CD9-C835-47AF-A87A-E9FC0E9C7E92 - 2020-10-16 03:06:16 +0000
+2020-10-15T23:06:16-0400 : Additional Change Tracked draft|--|31FA2CD9-C835-47AF-A87A-E9FC0E9C7E92
+2020-10-15T23:06:16-0400 : Updated draft|--|31FA2CD9-C835-47AF-A87A-E9FC0E9C7E92
+2020-10-15T23:06:16-0400 : Updates Complete
+2020-10-15T23:06:17-0400 : Download Skipped, Matching changeTag: draft|--|31FA2CD9-C835-47AF-A87A-E9FC0E9C7E92
+2020-10-15T23:06:17-0400 : Download Token Updated, Changes Saved
+2020-10-15T23:06:17-0400 : Sync Process Finished
+2020-10-15T23:06:18-0400 : Sync Process Started
+2020-10-15T23:06:18-0400 : No Pending Inserts
+2020-10-15T23:06:18-0400 : Update Fetch Complete
+2020-10-15T23:06:18-0400 : Updated draft|--|31FA2CD9-C835-47AF-A87A-E9FC0E9C7E92
+2020-10-15T23:06:18-0400 : Updates Complete
+2020-10-15T23:06:19-0400 : Download Skipped, Matching changeTag: draft|--|31FA2CD9-C835-47AF-A87A-E9FC0E9C7E92
+2020-10-15T23:06:19-0400 : Download Token Updated, Changes Saved
+2020-10-15T23:06:19-0400 : Sync Process Finished
+2020-10-15T23:06:31-0400 : Sync Process Started
+2020-10-15T23:06:31-0400 : No Pending Inserts
+2020-10-15T23:06:31-0400 : No Pending Updates
+2020-10-15T23:06:34-0400 : Download Token Updated, Changes Saved
+2020-10-15T23:06:34-0400 : Sync Process Finished
+2020-10-15T23:07:40-0400 : CT:: update, draft|--|31FA2CD9-C835-47AF-A87A-E9FC0E9C7E92 - 2020-10-16 03:07:40 +0000
+2020-10-15T23:07:40-0400 : CT:: update, draft|--|EF415041-3003-4900-B757-D9B398588386 - 2020-10-16 03:07:40 +0000
+2020-10-15T23:07:40-0400 : CT:: insert, actionRequest|--|E8E39869-BB20-4229-A5E3-750C0C0C8864 - 2020-10-16 03:07:40 +0000)
+2020-10-15T23:07:42-0400 : Sync Process Started
+2020-10-15T23:07:42-0400 : Inserted actionRequest|--|E8E39869-BB20-4229-A5E3-750C0C0C8864
+2020-10-15T23:07:42-0400 : Inserts Complete
+2020-10-15T23:07:43-0400 : Update Fetch Complete
+2020-10-15T23:07:44-0400 : Updated draft|--|31FA2CD9-C835-47AF-A87A-E9FC0E9C7E92
+2020-10-15T23:07:44-0400 : Updated draft|--|EF415041-3003-4900-B757-D9B398588386
+2020-10-15T23:07:44-0400 : Updates Complete
+2020-10-15T23:07:44-0400 : Download Skipped, Matching changeTag: draft|--|EF415041-3003-4900-B757-D9B398588386
+2020-10-15T23:07:44-0400 : Download Skipped, Matching changeTag: actionRequest|--|E8E39869-BB20-4229-A5E3-750C0C0C8864
+2020-10-15T23:07:44-0400 : Download Skipped, Matching changeTag: draft|--|31FA2CD9-C835-47AF-A87A-E9FC0E9C7E92
+2020-10-15T23:07:44-0400 : Download Token Updated, Changes Saved
+2020-10-15T23:07:44-0400 : Sync Process Finished
+2020-10-15T23:07:59-0400 : Sync Process Started
+2020-10-15T23:07:59-0400 : No Pending Inserts
+2020-10-15T23:07:59-0400 : No Pending Updates
+2020-10-15T23:08:00-0400 : Download Token Updated, Changes Saved
+2020-10-15T23:08:00-0400 : Sync Process Finished
+2020-10-15T23:08:11-0400 : CT:: insert, actionRequest|--|9F8646D7-A0EE-40A9-A6F6-2C7B8D9F691A - 2020-10-16 03:08:11 +0000)
+2020-10-15T23:08:12-0400 : Sync Process Started
+2020-10-15T23:08:13-0400 : Inserted actionRequest|--|9F8646D7-A0EE-40A9-A6F6-2C7B8D9F691A
+2020-10-15T23:08:13-0400 : Inserts Complete
+2020-10-15T23:08:13-0400 : No Pending Updates
+2020-10-15T23:08:13-0400 : Download Skipped, Matching changeTag: actionRequest|--|9F8646D7-A0EE-40A9-A6F6-2C7B8D9F691A
+2020-10-15T23:08:13-0400 : Download Token Updated, Changes Saved
+2020-10-15T23:08:13-0400 : Sync Process Finished
+2020-10-15T23:08:14-0400 : CT:: insert, actionRequest|--|3C18DDB2-C55E-42B3-8055-E098978C9C46 - 2020-10-16 03:08:14 +0000)
+2020-10-15T23:08:15-0400 : Sync Process Started
+2020-10-15T23:08:16-0400 : Inserted actionRequest|--|3C18DDB2-C55E-42B3-8055-E098978C9C46
+2020-10-15T23:08:16-0400 : Inserts Complete
+2020-10-15T23:08:16-0400 : No Pending Updates
+2020-10-15T23:08:16-0400 : Download Skipped, Matching changeTag: actionRequest|--|3C18DDB2-C55E-42B3-8055-E098978C9C46
+2020-10-15T23:08:16-0400 : Download Token Updated, Changes Saved
+2020-10-15T23:08:16-0400 : Sync Process Finished
+2020-10-15T23:08:24-0400 : Sync Process Started
+2020-10-15T23:08:24-0400 : No Pending Inserts
+2020-10-15T23:08:24-0400 : No Pending Updates
+2020-10-15T23:08:26-0400 : Download Token Updated, Changes Saved
+2020-10-15T23:08:26-0400 : Sync Process Finished
+2020-10-15T23:08:27-0400 : CT:: update, draft|--|31FA2CD9-C835-47AF-A87A-E9FC0E9C7E92 - 2020-10-16 03:08:27 +0000
+2020-10-15T23:08:27-0400 : CT:: update, draft|--|1AEC2246-ABF5-4447-B909-67C8B35EE983 - 2020-10-16 03:08:27 +0000
+2020-10-15T23:08:28-0400 : CT:: insert, actionRequest|--|32EADE86-FA93-4F0F-AD6B-E85932E7E1BD - 2020-10-16 03:08:28 +0000)
+2020-10-15T23:08:29-0400 : Sync Process Started
+2020-10-15T23:08:30-0400 : Inserted actionRequest|--|32EADE86-FA93-4F0F-AD6B-E85932E7E1BD
+2020-10-15T23:08:30-0400 : Inserts Complete
+2020-10-15T23:08:30-0400 : Update Fetch Complete
+2020-10-15T23:08:31-0400 : Updated draft|--|31FA2CD9-C835-47AF-A87A-E9FC0E9C7E92
+2020-10-15T23:08:31-0400 : Updated draft|--|1AEC2246-ABF5-4447-B909-67C8B35EE983
+2020-10-15T23:08:31-0400 : Updates Complete
+2020-10-15T23:08:31-0400 : Download Skipped, Matching changeTag: draft|--|1AEC2246-ABF5-4447-B909-67C8B35EE983
+2020-10-15T23:08:31-0400 : Download Skipped, Matching changeTag: actionRequest|--|32EADE86-FA93-4F0F-AD6B-E85932E7E1BD
+2020-10-15T23:08:31-0400 : Download Skipped, Matching changeTag: draft|--|31FA2CD9-C835-47AF-A87A-E9FC0E9C7E92
+2020-10-15T23:08:31-0400 : Download Token Updated, Changes Saved
+2020-10-15T23:08:31-0400 : Sync Process Finished
+2020-10-15T23:08:32-0400 : Sync Process Started
+2020-10-15T23:08:32-0400 : No Pending Inserts
+2020-10-15T23:08:32-0400 : No Pending Updates
+2020-10-15T23:08:33-0400 : Download Token Updated, Changes Saved
+2020-10-15T23:08:33-0400 : Sync Process Finished
+2020-10-15T23:08:54-0400 : Sync Process Started
+2020-10-15T23:08:54-0400 : No Pending Inserts
+2020-10-15T23:08:54-0400 : No Pending Updates
+2020-10-15T23:08:54-0400 : Download Token Updated, Changes Saved
+2020-10-15T23:08:54-0400 : Sync Process Finished
+2020-10-15T23:09:07-0400 : CT:: insert, actionRequest|--|2FD60253-36F4-4B8B-AFE5-85FC8DF0B017 - 2020-10-16 03:09:07 +0000)
+2020-10-15T23:09:08-0400 : Sync Process Started
+2020-10-15T23:09:08-0400 : Inserted actionRequest|--|2FD60253-36F4-4B8B-AFE5-85FC8DF0B017
+2020-10-15T23:09:08-0400 : Inserts Complete
+2020-10-15T23:09:08-0400 : No Pending Updates
+2020-10-15T23:09:09-0400 : Download Skipped, Matching changeTag: actionRequest|--|2FD60253-36F4-4B8B-AFE5-85FC8DF0B017
+2020-10-15T23:09:09-0400 : Download Token Updated, Changes Saved
+2020-10-15T23:09:09-0400 : Sync Process Finished
+2020-10-15T23:09:09-0400 : CT:: insert, actionRequest|--|4D359AB9-7C56-460A-ABBD-0102934C7A58 - 2020-10-16 03:09:09 +0000)
+2020-10-15T23:09:10-0400 : Sync Process Started
+2020-10-15T23:09:11-0400 : Inserted actionRequest|--|4D359AB9-7C56-460A-ABBD-0102934C7A58
+2020-10-15T23:09:11-0400 : Inserts Complete
+2020-10-15T23:09:11-0400 : No Pending Updates
+2020-10-15T23:09:11-0400 : Download Skipped, Matching changeTag: actionRequest|--|4D359AB9-7C56-460A-ABBD-0102934C7A58
+2020-10-15T23:09:11-0400 : Download Token Updated, Changes Saved
+2020-10-15T23:09:11-0400 : Sync Process Finished
+2020-10-15T23:09:14-0400 : CT:: update, actionGroup|--|13CF9C90-EAB2-4FBE-831B-2C1A1B077493 - 2020-09-19 15:08:43 +0000
+2020-10-15T23:09:15-0400 : Sync Process Started
+2020-10-15T23:09:15-0400 : No Pending Inserts
+2020-10-15T23:09:15-0400 : Update Fetch Complete
+2020-10-15T23:09:15-0400 : Updated actionGroup|--|13CF9C90-EAB2-4FBE-831B-2C1A1B077493
+2020-10-15T23:09:15-0400 : Updates Complete
+2020-10-15T23:09:16-0400 : Download Skipped, Matching changeTag: actionGroup|--|13CF9C90-EAB2-4FBE-831B-2C1A1B077493
+2020-10-15T23:09:16-0400 : Download Token Updated, Changes Saved
+2020-10-15T23:09:16-0400 : Sync Process Finished
+2020-10-15T23:09:18-0400 : CT:: update, actionGroup|--|13CF9C90-EAB2-4FBE-831B-2C1A1B077493 - 2020-09-19 15:08:43 +0000
+2020-10-15T23:09:19-0400 : Sync Process Started
+2020-10-15T23:09:19-0400 : No Pending Inserts
+2020-10-15T23:09:19-0400 : Update Fetch Complete
+2020-10-15T23:09:20-0400 : Updated actionGroup|--|13CF9C90-EAB2-4FBE-831B-2C1A1B077493
+2020-10-15T23:09:20-0400 : Updates Complete
+2020-10-15T23:09:20-0400 : Download Skipped, Matching changeTag: actionGroup|--|13CF9C90-EAB2-4FBE-831B-2C1A1B077493
+2020-10-15T23:09:20-0400 : Download Token Updated, Changes Saved
+2020-10-15T23:09:20-0400 : Sync Process Finished
+2020-10-15T23:09:34-0400 : CT:: insert, actionRequest|--|9C6F40A6-4850-4C24-AA13-AA74E68886B0 - 2020-10-16 03:09:34 +0000)
+2020-10-15T23:09:35-0400 : Sync Process Started
+2020-10-15T23:09:36-0400 : Inserted actionRequest|--|9C6F40A6-4850-4C24-AA13-AA74E68886B0
+2020-10-15T23:09:36-0400 : Inserts Complete
+2020-10-15T23:09:36-0400 : No Pending Updates
+2020-10-15T23:09:36-0400 : Download Skipped, Matching changeTag: actionRequest|--|9C6F40A6-4850-4C24-AA13-AA74E68886B0
+2020-10-15T23:09:36-0400 : Download Token Updated, Changes Saved
+2020-10-15T23:09:36-0400 : Sync Process Finished
+2020-10-15T23:09:39-0400 : Sync Process Started
+2020-10-15T23:09:39-0400 : No Pending Inserts
+2020-10-15T23:09:39-0400 : No Pending Updates
+2020-10-15T23:09:39-0400 : CT:: insert, actionRequest|--|AF0E5088-ED58-4036-86ED-D46057C82404 - 2020-10-16 03:09:39 +0000)
+2020-10-15T23:09:41-0400 : Download Token Updated, Changes Saved
+2020-10-15T23:09:43-0400 : Sync Process Finished
+2020-10-15T23:09:44-0400 : Sync Process Started
+2020-10-15T23:09:44-0400 : Inserted actionRequest|--|AF0E5088-ED58-4036-86ED-D46057C82404
+2020-10-15T23:09:44-0400 : Inserts Complete
+2020-10-15T23:09:44-0400 : No Pending Updates
+2020-10-15T23:09:44-0400 : Download Skipped, Matching changeTag: actionRequest|--|AF0E5088-ED58-4036-86ED-D46057C82404
+2020-10-15T23:09:44-0400 : Download Token Updated, Changes Saved
+2020-10-15T23:09:44-0400 : Sync Process Finished
+2020-10-16T13:55:55-0400 : CT:: insert, draft|--|E22C3A84-C50A-4714-BC0E-5150B772E729 - 2020-10-16 17:55:55 +0000)
+2020-10-16T13:55:55-0400 : Reachability: WiFi
+2020-10-16T14:03:32-0400 : CT:: insert, draft|--|68D7AF85-2F8D-49F0-A147-C0C3F46A89D7 - 2020-10-16 18:03:32 +0000)
+2020-10-16T14:03:32-0400 : Reachability: WiFi
+2020-10-16T15:13:00-0400 : CT:: insert, draft|--|DFE29687-BFDA-400F-97B6-1C7DD8AECCEF - 2020-10-16 19:13:00 +0000)
+2020-10-16T15:58:33-0400 : Reachability: WiFi
+2020-10-16T15:58:33-0400 : Account Status: Available
+2020-10-16T15:58:34-0400 : Setup needed: QoS 9
+2020-10-16T15:58:35-0400 : Fetch User Success
+2020-10-16T15:58:36-0400 : Zones Exists
+2020-10-16T15:58:36-0400 : Sync Process Started
+2020-10-16T15:58:36-0400 : Insert Error Error saving record <CKRecordID: 0x1335fdc20; recordName=draft|--|E22C3A84-C50A-4714-BC0E-5150B772E729, zoneID=drafts:_8c81ff5e673c5095c9f9b6686391d40e> to server: Quota exceeded
+2020-10-16T15:58:36-0400 : Insert Error Error saving record <CKRecordID: 0x1335d9500; recordName=draft|--|68D7AF85-2F8D-49F0-A147-C0C3F46A89D7, zoneID=drafts:_8c81ff5e673c5095c9f9b6686391d40e> to server: Quota exceeded
+2020-10-16T15:58:36-0400 : Insert Error Error saving record <CKRecordID: 0x133526dc0; recordName=draft|--|DFE29687-BFDA-400F-97B6-1C7DD8AECCEF, zoneID=drafts:_8c81ff5e673c5095c9f9b6686391d40e> to server: Quota exceeded
+2020-10-16T15:58:36-0400 : Insert Error Failed to modify some records
+2020-10-16T15:58:36-0400 : No Pending Updates
+2020-10-16T15:58:37-0400 : Download Token Updated, Changes Saved
+2020-10-16T15:58:37-0400 : Sync Process Finished
+2020-10-16T15:58:39-0400 : CT:: insert, draft|--|9A9E044C-2452-438E-9DC9-7F09C619D180 - 2020-10-16 19:58:39 +0000)
+2020-10-16T15:58:40-0400 : Sync Process Started
+2020-10-16T15:58:40-0400 : Insert Error This operation has been rate limited due to an earlier error: Error saving record <CKRecordID: 0x133526dc0; recordName=draft|--|DFE29687-BFDA-400F-97B6-1C7DD8AECCEF, zoneID=drafts:_8c81ff5e673c5095c9f9b6686391d40e> to server: Quota exceeded
+2020-10-16T15:58:40-0400 : No Pending Updates
+2020-10-16T15:58:40-0400 : Download Token Updated, Changes Saved
+2020-10-16T15:58:40-0400 : Sync Process Finished
+2020-10-16T15:58:45-0400 : CT:: insert, draftVersion|--|DE916010-1888-4120-9809-84ECDDF744B5 - 2020-10-16 19:58:45 +0000)
+2020-10-16T15:58:45-0400 : CT:: update, draft|--|9A9E044C-2452-438E-9DC9-7F09C619D180 - 2020-10-16 19:58:45 +0000
+2020-10-16T15:58:46-0400 : Sync Process Started
+2020-10-16T15:58:46-0400 : Insert Error This operation has been rate limited due to an earlier error: Error saving record <CKRecordID: 0x133526dc0; recordName=draft|--|DFE29687-BFDA-400F-97B6-1C7DD8AECCEF, zoneID=drafts:_8c81ff5e673c5095c9f9b6686391d40e> to server: Quota exceeded
+2020-10-16T15:58:46-0400 : Update Error, Record Missing - Insert: draft|--|9A9E044C-2452-438E-9DC9-7F09C619D180
+2020-10-16T15:58:46-0400 : Update Error, Fetching: Failed to fetch some records
+2020-10-16T15:58:46-0400 : Update Fetch Complete
+2020-10-16T15:58:46-0400 : Updates Error This operation has been rate limited due to an earlier error: Error saving record <CKRecordID: 0x133526dc0; recordName=draft|--|DFE29687-BFDA-400F-97B6-1C7DD8AECCEF, zoneID=drafts:_8c81ff5e673c5095c9f9b6686391d40e> to server: Quota exceeded
+2020-10-16T15:58:47-0400 : Download Token Updated, Changes Saved
+2020-10-16T15:58:47-0400 : Sync Process Finished
+2020-10-16T15:59:07-0400 : Sync Process Started
+2020-10-16T15:59:07-0400 : Insert Error This operation has been rate limited due to an earlier error: Error saving record <CKRecordID: 0x133526dc0; recordName=draft|--|DFE29687-BFDA-400F-97B6-1C7DD8AECCEF, zoneID=drafts:_8c81ff5e673c5095c9f9b6686391d40e> to server: Quota exceeded
+2020-10-16T15:59:07-0400 : Update Error, Record Missing - Insert: draft|--|9A9E044C-2452-438E-9DC9-7F09C619D180
+2020-10-16T15:59:07-0400 : Update Error, Fetching: Failed to fetch some records
+2020-10-16T15:59:07-0400 : Update Fetch Complete
+2020-10-16T15:59:07-0400 : Updates Error This operation has been rate limited due to an earlier error: Error saving record <CKRecordID: 0x133526dc0; recordName=draft|--|DFE29687-BFDA-400F-97B6-1C7DD8AECCEF, zoneID=drafts:_8c81ff5e673c5095c9f9b6686391d40e> to server: Quota exceeded
+2020-10-16T15:59:08-0400 : Download Token Updated, Changes Saved
+2020-10-16T15:59:08-0400 : Sync Process Finished
+2020-10-16T15:59:29-0400 : Sync Process Started
+2020-10-16T15:59:30-0400 : Insert Error This operation has been rate limited due to an earlier error: Error saving record <CKRecordID: 0x133526dc0; recordName=draft|--|DFE29687-BFDA-400F-97B6-1C7DD8AECCEF, zoneID=drafts:_8c81ff5e673c5095c9f9b6686391d40e> to server: Quota exceeded
+2020-10-16T15:59:30-0400 : Update Error, Record Missing - Insert: draft|--|9A9E044C-2452-438E-9DC9-7F09C619D180
+2020-10-16T15:59:30-0400 : Update Error, Fetching: Failed to fetch some records
+2020-10-16T15:59:30-0400 : Update Fetch Complete
+2020-10-16T15:59:30-0400 : Updates Error This operation has been rate limited due to an earlier error: Error saving record <CKRecordID: 0x133526dc0; recordName=draft|--|DFE29687-BFDA-400F-97B6-1C7DD8AECCEF, zoneID=drafts:_8c81ff5e673c5095c9f9b6686391d40e> to server: Quota exceeded
+2020-10-16T15:59:30-0400 : Download Token Updated, Changes Saved
+2020-10-16T15:59:30-0400 : Sync Process Finished
+2020-10-16T15:59:36-0400 : CT:: update, draft|--|9A9E044C-2452-438E-9DC9-7F09C619D180 - 2020-10-16 19:59:36 +0000
+2020-10-16T15:59:36-0400 : Sync Process Started
+2020-10-16T15:59:36-0400 : Insert Error This operation has been rate limited due to an earlier error: Error saving record <CKRecordID: 0x133526dc0; recordName=draft|--|DFE29687-BFDA-400F-97B6-1C7DD8AECCEF, zoneID=drafts:_8c81ff5e673c5095c9f9b6686391d40e> to server: Quota exceeded
+2020-10-16T15:59:37-0400 : Update Error, Record Missing - Insert: draft|--|9A9E044C-2452-438E-9DC9-7F09C619D180
+2020-10-16T15:59:37-0400 : Update Error, Fetching: Failed to fetch some records
+2020-10-16T15:59:37-0400 : Update Fetch Complete
+2020-10-16T15:59:37-0400 : Updates Error This operation has been rate limited due to an earlier error: Error saving record <CKRecordID: 0x133526dc0; recordName=draft|--|DFE29687-BFDA-400F-97B6-1C7DD8AECCEF, zoneID=drafts:_8c81ff5e673c5095c9f9b6686391d40e> to server: Quota exceeded
+2020-10-16T15:59:37-0400 : Download Token Updated, Changes Saved
+2020-10-16T15:59:37-0400 : Sync Process Finished
+2020-10-16T16:00:02-0400 : Sync Process Started
+2020-10-16T16:00:02-0400 : Insert Error This operation has been rate limited due to an earlier error: Error saving record <CKRecordID: 0x133526dc0; recordName=draft|--|DFE29687-BFDA-400F-97B6-1C7DD8AECCEF, zoneID=drafts:_8c81ff5e673c5095c9f9b6686391d40e> to server: Quota exceeded
+2020-10-16T16:00:02-0400 : Update Error, Record Missing - Insert: draft|--|9A9E044C-2452-438E-9DC9-7F09C619D180
+2020-10-16T16:00:02-0400 : Update Error, Fetching: Failed to fetch some records
+2020-10-16T16:00:02-0400 : Update Fetch Complete
+2020-10-16T16:00:02-0400 : Updates Error This operation has been rate limited due to an earlier error: Error saving record <CKRecordID: 0x133526dc0; recordName=draft|--|DFE29687-BFDA-400F-97B6-1C7DD8AECCEF, zoneID=drafts:_8c81ff5e673c5095c9f9b6686391d40e> to server: Quota exceeded
+2020-10-16T16:00:02-0400 : Download Token Updated, Changes Saved
+2020-10-16T16:00:02-0400 : Sync Process Finished
+2020-10-16T16:18:01-0400 : CT:: insert, draft|--|644EFA95-668E-484F-A3F6-40B1554DA173 - 2020-10-16 20:18:01 +0000)
+2020-10-16T22:37:36-0400 : Reachability: WiFi
+2020-10-16T22:37:36-0400 : Account Status: Available
+2020-10-16T22:37:36-0400 : Setup needed: QoS 9
+2020-10-16T22:37:36-0400 : Fetch User Success
+2020-10-16T22:37:36-0400 : Setup needed: QoS 9
+2020-10-16T22:37:37-0400 : Zones Exists
+2020-10-16T22:37:37-0400 : Sync Process Started
+2020-10-16T22:37:37-0400 : Zones Exists
+2020-10-16T22:37:37-0400 : Sync in progress, Skip, Last Start: Optional(2020-10-17 02:37:37 +0000)
+2020-10-16T22:37:38-0400 : Insert Error Error saving record <CKRecordID: 0x103aa07f0; recordName=draft|--|E22C3A84-C50A-4714-BC0E-5150B772E729, zoneID=drafts:_8c81ff5e673c5095c9f9b6686391d40e> to server: Quota exceeded
+2020-10-16T22:37:38-0400 : Insert Error Error saving record <CKRecordID: 0x1052f83c0; recordName=draft|--|68D7AF85-2F8D-49F0-A147-C0C3F46A89D7, zoneID=drafts:_8c81ff5e673c5095c9f9b6686391d40e> to server: Quota exceeded
+2020-10-16T22:37:38-0400 : Insert Error Error saving record <CKRecordID: 0x1056f3a10; recordName=draft|--|DFE29687-BFDA-400F-97B6-1C7DD8AECCEF, zoneID=drafts:_8c81ff5e673c5095c9f9b6686391d40e> to server: Quota exceeded
+2020-10-16T22:37:38-0400 : Insert Error Error saving record <CKRecordID: 0x10568fc10; recordName=draft|--|9A9E044C-2452-438E-9DC9-7F09C619D180, zoneID=drafts:_8c81ff5e673c5095c9f9b6686391d40e> to server: Quota exceeded
+2020-10-16T22:37:38-0400 : Insert Error Error saving record <CKRecordID: 0x104179a50; recordName=draftVersion|--|DE916010-1888-4120-9809-84ECDDF744B5, zoneID=drafts:_8c81ff5e673c5095c9f9b6686391d40e> to server: Quota exceeded
+2020-10-16T22:37:38-0400 : Insert Error Error saving record <CKRecordID: 0x103cf7eb0; recordName=draft|--|644EFA95-668E-484F-A3F6-40B1554DA173, zoneID=drafts:_8c81ff5e673c5095c9f9b6686391d40e> to server: Quota exceeded
+2020-10-16T22:37:38-0400 : Insert Error Failed to modify some records
+2020-10-16T22:37:38-0400 : Update Error, Record Missing - Insert: draft|--|9A9E044C-2452-438E-9DC9-7F09C619D180
+2020-10-16T22:37:38-0400 : Update Error, Fetching: Failed to fetch some records
+2020-10-16T22:37:38-0400 : Update Fetch Complete
+2020-10-16T22:37:38-0400 : Updates Error This operation has been rate limited due to an earlier error: Error saving record <CKRecordID: 0x10568fc10; recordName=draft|--|9A9E044C-2452-438E-9DC9-7F09C619D180, zoneID=drafts:_8c81ff5e673c5095c9f9b6686391d40e> to server: Quota exceeded
+2020-10-16T22:37:38-0400 : Download Token Updated, Changes Saved
+2020-10-16T22:37:38-0400 : Sync Process Finished
+2020-10-17T00:12:30-0400 : CT:: update, draft|--|9A9E044C-2452-438E-9DC9-7F09C619D180 - 2020-10-17 04:12:30 +0000
+2020-10-17T00:12:32-0400 : Sync Process Started
+2020-10-17T00:12:32-0400 : Insert Error Error saving record <CKRecordID: 0x101851f20; recordName=draft|--|E22C3A84-C50A-4714-BC0E-5150B772E729, zoneID=drafts:_8c81ff5e673c5095c9f9b6686391d40e> to server: Quota exceeded
+2020-10-17T00:12:32-0400 : Insert Error Error saving record <CKRecordID: 0x10414dd90; recordName=draft|--|68D7AF85-2F8D-49F0-A147-C0C3F46A89D7, zoneID=drafts:_8c81ff5e673c5095c9f9b6686391d40e> to server: Quota exceeded
+2020-10-17T00:12:32-0400 : Insert Error Error saving record <CKRecordID: 0x1041a7450; recordName=draft|--|DFE29687-BFDA-400F-97B6-1C7DD8AECCEF, zoneID=drafts:_8c81ff5e673c5095c9f9b6686391d40e> to server: Quota exceeded
+2020-10-17T00:12:32-0400 : Insert Error Error saving record <CKRecordID: 0x1018cc550; recordName=draft|--|9A9E044C-2452-438E-9DC9-7F09C619D180, zoneID=drafts:_8c81ff5e673c5095c9f9b6686391d40e> to server: Quota exceeded
+2020-10-17T00:12:32-0400 : Insert Error Error saving record <CKRecordID: 0x1039a0b20; recordName=draftVersion|--|DE916010-1888-4120-9809-84ECDDF744B5, zoneID=drafts:_8c81ff5e673c5095c9f9b6686391d40e> to server: Quota exceeded
+2020-10-17T00:12:32-0400 : Insert Error Error saving record <CKRecordID: 0x104178540; recordName=draft|--|644EFA95-668E-484F-A3F6-40B1554DA173, zoneID=drafts:_8c81ff5e673c5095c9f9b6686391d40e> to server: Quota exceeded
+2020-10-17T00:12:32-0400 : Insert Error Failed to modify some records
+2020-10-17T00:12:33-0400 : Update Error, Record Missing - Insert: draft|--|9A9E044C-2452-438E-9DC9-7F09C619D180
+2020-10-17T00:12:33-0400 : Update Error, Fetching: Failed to fetch some records
+2020-10-17T00:12:33-0400 : Update Fetch Complete
+2020-10-17T00:12:33-0400 : Updates Error This operation has been rate limited due to an earlier error: Error saving record <CKRecordID: 0x1018cc550; recordName=draft|--|9A9E044C-2452-438E-9DC9-7F09C619D180, zoneID=drafts:_8c81ff5e673c5095c9f9b6686391d40e> to server: Quota exceeded
+2020-10-17T00:12:33-0400 : Download Token Updated, Changes Saved
+2020-10-17T00:12:33-0400 : Sync Process Finished
+2020-10-17T00:12:55-0400 : Sync Process Started
+2020-10-17T00:12:55-0400 : Insert Error This operation has been rate limited due to an earlier error: Error saving record <CKRecordID: 0x1018cc550; recordName=draft|--|9A9E044C-2452-438E-9DC9-7F09C619D180, zoneID=drafts:_8c81ff5e673c5095c9f9b6686391d40e> to server: Quota exceeded
+2020-10-17T00:12:55-0400 : Update Error, Record Missing - Insert: draft|--|9A9E044C-2452-438E-9DC9-7F09C619D180
+2020-10-17T00:12:55-0400 : Update Error, Fetching: Failed to fetch some records
+2020-10-17T00:12:55-0400 : Update Fetch Complete
+2020-10-17T00:12:55-0400 : Updates Error This operation has been rate limited due to an earlier error: Error saving record <CKRecordID: 0x1018cc550; recordName=draft|--|9A9E044C-2452-438E-9DC9-7F09C619D180, zoneID=drafts:_8c81ff5e673c5095c9f9b6686391d40e> to server: Quota exceeded
+2020-10-17T00:12:55-0400 : Download Token Updated, Changes Saved
+2020-10-17T00:12:55-0400 : Sync Process Finished
+2020-10-17T00:13:17-0400 : Sync Process Started
+2020-10-17T00:13:17-0400 : Insert Error This operation has been rate limited due to an earlier error: Error saving record <CKRecordID: 0x1018cc550; recordName=draft|--|9A9E044C-2452-438E-9DC9-7F09C619D180, zoneID=drafts:_8c81ff5e673c5095c9f9b6686391d40e> to server: Quota exceeded
+2020-10-17T00:13:18-0400 : Update Error, Record Missing - Insert: draft|--|9A9E044C-2452-438E-9DC9-7F09C619D180
+2020-10-17T00:13:18-0400 : Update Error, Fetching: Failed to fetch some records
+2020-10-17T00:13:18-0400 : Update Fetch Complete
+2020-10-17T00:13:18-0400 : Updates Error This operation has been rate limited due to an earlier error: Error saving record <CKRecordID: 0x1018cc550; recordName=draft|--|9A9E044C-2452-438E-9DC9-7F09C619D180, zoneID=drafts:_8c81ff5e673c5095c9f9b6686391d40e> to server: Quota exceeded
+2020-10-17T00:13:18-0400 : Download Token Updated, Changes Saved
+2020-10-17T00:13:18-0400 : Sync Process Finished
+2020-10-17T00:13:38-0400 : Sync Process Started
+2020-10-17T00:13:38-0400 : Insert Error This operation has been rate limited due to an earlier error: Error saving record <CKRecordID: 0x1018cc550; recordName=draft|--|9A9E044C-2452-438E-9DC9-7F09C619D180, zoneID=drafts:_8c81ff5e673c5095c9f9b6686391d40e> to server: Quota exceeded
+2020-10-17T00:13:39-0400 : Update Error, Record Missing - Insert: draft|--|9A9E044C-2452-438E-9DC9-7F09C619D180
+2020-10-17T00:13:39-0400 : Update Error, Fetching: Failed to fetch some records
+2020-10-17T00:13:39-0400 : Update Fetch Complete
+2020-10-17T00:13:39-0400 : Updates Error This operation has been rate limited due to an earlier error: Error saving record <CKRecordID: 0x1018cc550; recordName=draft|--|9A9E044C-2452-438E-9DC9-7F09C619D180, zoneID=drafts:_8c81ff5e673c5095c9f9b6686391d40e> to server: Quota exceeded
+2020-10-17T00:13:39-0400 : Download Token Updated, Changes Saved
+2020-10-17T00:13:39-0400 : Sync Process Finished
+2020-10-17T00:13:41-0400 : CT:: insert, actionRequest|--|6B37DA9E-6278-48B1-9BB9-5E0DE3BD74B3 - 2020-10-17 04:13:41 +0000)
+2020-10-17T00:13:43-0400 : Sync Process Started
+2020-10-17T00:13:43-0400 : Insert Error This operation has been rate limited due to an earlier error: Error saving record <CKRecordID: 0x1018cc550; recordName=draft|--|9A9E044C-2452-438E-9DC9-7F09C619D180, zoneID=drafts:_8c81ff5e673c5095c9f9b6686391d40e> to server: Quota exceeded
+2020-10-17T00:13:43-0400 : Sync in progress, Skip, Last Start: Optional(2020-10-17 04:13:43 +0000)
+2020-10-17T00:13:44-0400 : Update Error, Record Missing - Insert: draft|--|9A9E044C-2452-438E-9DC9-7F09C619D180
+2020-10-17T00:13:45-0400 : Update Error, Fetching: Failed to fetch some records
+2020-10-17T00:13:45-0400 : Update Fetch Complete
+2020-10-17T00:13:45-0400 : Updates Error This operation has been rate limited due to an earlier error: Error saving record <CKRecordID: 0x1018cc550; recordName=draft|--|9A9E044C-2452-438E-9DC9-7F09C619D180, zoneID=drafts:_8c81ff5e673c5095c9f9b6686391d40e> to server: Quota exceeded
+2020-10-17T00:13:46-0400 : Download Token Updated, Changes Saved
+2020-10-17T00:13:46-0400 : Sync Process Finished
+2020-10-17T00:14:07-0400 : Sync Process Started
+2020-10-17T00:14:07-0400 : Insert Error This operation has been rate limited due to an earlier error: Error saving record <CKRecordID: 0x1018cc550; recordName=draft|--|9A9E044C-2452-438E-9DC9-7F09C619D180, zoneID=drafts:_8c81ff5e673c5095c9f9b6686391d40e> to server: Quota exceeded
+2020-10-17T00:14:07-0400 : Update Error, Record Missing - Insert: draft|--|9A9E044C-2452-438E-9DC9-7F09C619D180
+2020-10-17T00:14:07-0400 : Update Error, Fetching: Failed to fetch some records
+2020-10-17T00:14:07-0400 : Update Fetch Complete
+2020-10-17T00:14:07-0400 : Updates Error This operation has been rate limited due to an earlier error: Error saving record <CKRecordID: 0x1018cc550; recordName=draft|--|9A9E044C-2452-438E-9DC9-7F09C619D180, zoneID=drafts:_8c81ff5e673c5095c9f9b6686391d40e> to server: Quota exceeded
+2020-10-17T00:14:08-0400 : Download Token Updated, Changes Saved
+2020-10-17T00:14:08-0400 : Sync Process Finished
+2020-10-17T00:14:16-0400 : CT:: insert, actionGroup|--|E5F7E124-D523-4CF0-9D22-D9DB4AC8EC48 - 2020-10-17 04:14:14 +0000)
+2020-10-17T00:14:17-0400 : Sync Process Started
+2020-10-17T00:14:17-0400 : Insert Error This operation has been rate limited due to an earlier error: Error saving record <CKRecordID: 0x1018cc550; recordName=draft|--|9A9E044C-2452-438E-9DC9-7F09C619D180, zoneID=drafts:_8c81ff5e673c5095c9f9b6686391d40e> to server: Quota exceeded
+2020-10-17T00:14:17-0400 : Update Error, Record Missing - Insert: draft|--|9A9E044C-2452-438E-9DC9-7F09C619D180
+2020-10-17T00:14:17-0400 : Update Error, Fetching: Failed to fetch some records
+2020-10-17T00:14:17-0400 : Update Fetch Complete
+2020-10-17T00:14:17-0400 : Updates Error This operation has been rate limited due to an earlier error: Error saving record <CKRecordID: 0x1018cc550; recordName=draft|--|9A9E044C-2452-438E-9DC9-7F09C619D180, zoneID=drafts:_8c81ff5e673c5095c9f9b6686391d40e> to server: Quota exceeded
+2020-10-17T00:14:17-0400 : Download Token Updated, Changes Saved
+2020-10-17T00:14:17-0400 : Sync Process Finished
+2020-10-17T00:14:37-0400 : Sync Process Started
+2020-10-17T00:14:37-0400 : Insert Error This operation has been rate limited due to an earlier error: Error saving record <CKRecordID: 0x1018cc550; recordName=draft|--|9A9E044C-2452-438E-9DC9-7F09C619D180, zoneID=drafts:_8c81ff5e673c5095c9f9b6686391d40e> to server: Quota exceeded
+2020-10-17T00:14:38-0400 : Update Error, Record Missing - Insert: draft|--|9A9E044C-2452-438E-9DC9-7F09C619D180
+2020-10-17T00:14:38-0400 : Update Error, Fetching: Failed to fetch some records
+2020-10-17T00:14:38-0400 : Update Fetch Complete
+2020-10-17T00:14:38-0400 : Updates Error This operation has been rate limited due to an earlier error: Error saving record <CKRecordID: 0x1018cc550; recordName=draft|--|9A9E044C-2452-438E-9DC9-7F09C619D180, zoneID=drafts:_8c81ff5e673c5095c9f9b6686391d40e> to server: Quota exceeded
+2020-10-17T00:14:38-0400 : Download Token Updated, Changes Saved
+2020-10-17T00:14:38-0400 : Sync Process Finished
+2020-10-17T00:15:00-0400 : Sync Process Started
+2020-10-17T00:15:00-0400 : Insert Error This operation has been rate limited due to an earlier error: Error saving record <CKRecordID: 0x1018cc550; recordName=draft|--|9A9E044C-2452-438E-9DC9-7F09C619D180, zoneID=drafts:_8c81ff5e673c5095c9f9b6686391d40e> to server: Quota exceeded
+2020-10-17T00:15:00-0400 : Update Error, Record Missing - Insert: draft|--|9A9E044C-2452-438E-9DC9-7F09C619D180
+2020-10-17T00:15:00-0400 : Update Error, Fetching: Failed to fetch some records
+2020-10-17T00:15:00-0400 : Update Fetch Complete
+2020-10-17T00:15:00-0400 : Updates Error This operation has been rate limited due to an earlier error: Error saving record <CKRecordID: 0x1018cc550; recordName=draft|--|9A9E044C-2452-438E-9DC9-7F09C619D180, zoneID=drafts:_8c81ff5e673c5095c9f9b6686391d40e> to server: Quota exceeded
+2020-10-17T00:15:00-0400 : Download Token Updated, Changes Saved
+2020-10-17T00:15:00-0400 : Sync Process Finished
+2020-10-17T00:15:22-0400 : Sync Process Started
+2020-10-17T00:15:22-0400 : Insert Error This operation has been rate limited due to an earlier error: Error saving record <CKRecordID: 0x1018cc550; recordName=draft|--|9A9E044C-2452-438E-9DC9-7F09C619D180, zoneID=drafts:_8c81ff5e673c5095c9f9b6686391d40e> to server: Quota exceeded
+2020-10-17T00:15:23-0400 : Update Error, Record Missing - Insert: draft|--|9A9E044C-2452-438E-9DC9-7F09C619D180
+2020-10-17T00:15:23-0400 : Update Error, Fetching: Failed to fetch some records
+2020-10-17T00:15:23-0400 : Update Fetch Complete
+2020-10-17T00:15:23-0400 : Updates Error This operation has been rate limited due to an earlier error: Error saving record <CKRecordID: 0x1018cc550; recordName=draft|--|9A9E044C-2452-438E-9DC9-7F09C619D180, zoneID=drafts:_8c81ff5e673c5095c9f9b6686391d40e> to server: Quota exceeded
+2020-10-17T00:15:23-0400 : Download Token Updated, Changes Saved
+2020-10-17T00:15:23-0400 : Sync Process Finished
+2020-10-17T00:15:43-0400 : Sync Process Started
+2020-10-17T00:15:43-0400 : Insert Error This operation has been rate limited due to an earlier error: Error saving record <CKRecordID: 0x1018cc550; recordName=draft|--|9A9E044C-2452-438E-9DC9-7F09C619D180, zoneID=drafts:_8c81ff5e673c5095c9f9b6686391d40e> to server: Quota exceeded
+2020-10-17T00:15:43-0400 : Update Error, Record Missing - Insert: draft|--|9A9E044C-2452-438E-9DC9-7F09C619D180
+2020-10-17T00:15:43-0400 : Update Error, Fetching: Failed to fetch some records
+2020-10-17T00:15:43-0400 : Update Fetch Complete
+2020-10-17T00:15:43-0400 : Updates Error This operation has been rate limited due to an earlier error: Error saving record <CKRecordID: 0x1018cc550; recordName=draft|--|9A9E044C-2452-438E-9DC9-7F09C619D180, zoneID=drafts:_8c81ff5e673c5095c9f9b6686391d40e> to server: Quota exceeded
+2020-10-17T00:15:43-0400 : Download Token Updated, Changes Saved
+2020-10-17T00:15:43-0400 : Sync Process Finished
+2020-10-17T00:16:05-0400 : Sync Process Started
+2020-10-17T00:16:05-0400 : Insert Error This operation has been rate limited due to an earlier error: Error saving record <CKRecordID: 0x1018cc550; recordName=draft|--|9A9E044C-2452-438E-9DC9-7F09C619D180, zoneID=drafts:_8c81ff5e673c5095c9f9b6686391d40e> to server: Quota exceeded
+2020-10-17T00:16:06-0400 : Update Error, Record Missing - Insert: draft|--|9A9E044C-2452-438E-9DC9-7F09C619D180
+2020-10-17T00:16:06-0400 : Update Error, Fetching: Failed to fetch some records
+2020-10-17T00:16:06-0400 : Update Fetch Complete
+2020-10-17T00:16:06-0400 : Updates Error This operation has been rate limited due to an earlier error: Error saving record <CKRecordID: 0x1018cc550; recordName=draft|--|9A9E044C-2452-438E-9DC9-7F09C619D180, zoneID=drafts:_8c81ff5e673c5095c9f9b6686391d40e> to server: Quota exceeded
+2020-10-17T00:16:06-0400 : Download Token Updated, Changes Saved
+2020-10-17T00:16:06-0400 : Sync Process Finished
+2020-10-17T00:16:08-0400 : CT:: update, actionGroup|--|E5F7E124-D523-4CF0-9D22-D9DB4AC8EC48 - 2020-10-17 04:14:14 +0000
+2020-10-17T00:16:08-0400 : CT:: update, actionGroup|--|E5F7E124-D523-4CF0-9D22-D9DB4AC8EC48 - 2020-10-17 04:14:14 +0000
+2020-10-17T00:16:09-0400 : Sync Process Started
+2020-10-17T00:16:09-0400 : Insert Error This operation has been rate limited due to an earlier error: Error saving record <CKRecordID: 0x1018cc550; recordName=draft|--|9A9E044C-2452-438E-9DC9-7F09C619D180, zoneID=drafts:_8c81ff5e673c5095c9f9b6686391d40e> to server: Quota exceeded
+2020-10-17T00:16:10-0400 : Update Error, Record Missing - Insert: draft|--|9A9E044C-2452-438E-9DC9-7F09C619D180
+2020-10-17T00:16:10-0400 : Update Error, Record Missing - Insert: actionGroup|--|E5F7E124-D523-4CF0-9D22-D9DB4AC8EC48
+2020-10-17T00:16:10-0400 : Update Error, Fetching: Failed to fetch some records
+2020-10-17T00:16:10-0400 : Update Fetch Complete
+2020-10-17T00:16:10-0400 : Updates Error This operation has been rate limited due to an earlier error: Error saving record <CKRecordID: 0x1018cc550; recordName=draft|--|9A9E044C-2452-438E-9DC9-7F09C619D180, zoneID=drafts:_8c81ff5e673c5095c9f9b6686391d40e> to server: Quota exceeded
+2020-10-17T00:16:10-0400 : Download Token Updated, Changes Saved
+2020-10-17T00:16:10-0400 : Sync Process Finished
+2020-10-17T00:16:28-0400 : CT:: insert, actionRequest|--|2BDC0AD0-95DF-4ACF-B820-B870BCDC100D - 2020-10-17 04:16:28 +0000)
+2020-10-17T00:16:29-0400 : Sync Process Started
+2020-10-17T00:16:29-0400 : Insert Error This operation has been rate limited due to an earlier error: Error saving record <CKRecordID: 0x1018cc550; recordName=draft|--|9A9E044C-2452-438E-9DC9-7F09C619D180, zoneID=drafts:_8c81ff5e673c5095c9f9b6686391d40e> to server: Quota exceeded
+2020-10-17T00:16:29-0400 : Update Error, Record Missing - Insert: draft|--|9A9E044C-2452-438E-9DC9-7F09C619D180
+2020-10-17T00:16:29-0400 : Update Error, Record Missing - Insert: actionGroup|--|E5F7E124-D523-4CF0-9D22-D9DB4AC8EC48
+2020-10-17T00:16:29-0400 : Update Error, Fetching: Failed to fetch some records
+2020-10-17T00:16:29-0400 : Update Fetch Complete
+2020-10-17T00:16:29-0400 : Updates Error This operation has been rate limited due to an earlier error: Error saving record <CKRecordID: 0x1018cc550; recordName=draft|--|9A9E044C-2452-438E-9DC9-7F09C619D180, zoneID=drafts:_8c81ff5e673c5095c9f9b6686391d40e> to server: Quota exceeded
+2020-10-17T00:16:29-0400 : Download Token Updated, Changes Saved
+2020-10-17T00:16:29-0400 : Sync Process Finished
+2020-10-17T00:16:49-0400 : Sync Process Started
+2020-10-17T00:16:50-0400 : Insert Error This operation has been rate limited due to an earlier error: Error saving record <CKRecordID: 0x1018cc550; recordName=draft|--|9A9E044C-2452-438E-9DC9-7F09C619D180, zoneID=drafts:_8c81ff5e673c5095c9f9b6686391d40e> to server: Quota exceeded
+2020-10-17T00:16:50-0400 : Update Error, Record Missing - Insert: draft|--|9A9E044C-2452-438E-9DC9-7F09C619D180
+2020-10-17T00:16:50-0400 : Update Error, Record Missing - Insert: actionGroup|--|E5F7E124-D523-4CF0-9D22-D9DB4AC8EC48
+2020-10-17T00:16:50-0400 : Update Error, Fetching: Failed to fetch some records
+2020-10-17T00:16:50-0400 : Update Fetch Complete
+2020-10-17T00:16:50-0400 : Updates Error This operation has been rate limited due to an earlier error: Error saving record <CKRecordID: 0x1018cc550; recordName=draft|--|9A9E044C-2452-438E-9DC9-7F09C619D180, zoneID=drafts:_8c81ff5e673c5095c9f9b6686391d40e> to server: Quota exceeded
+2020-10-17T00:16:50-0400 : Download Token Updated, Changes Saved
+2020-10-17T00:16:50-0400 : Sync Process Finished
+2020-10-17T00:16:56-0400 : Sync Process Started
+2020-10-17T00:16:56-0400 : Insert Error This operation has been rate limited due to an earlier error: Error saving record <CKRecordID: 0x1018cc550; recordName=draft|--|9A9E044C-2452-438E-9DC9-7F09C619D180, zoneID=drafts:_8c81ff5e673c5095c9f9b6686391d40e> to server: Quota exceeded
+2020-10-17T00:16:59-0400 : Update Error, Record Missing - Insert: draft|--|9A9E044C-2452-438E-9DC9-7F09C619D180
+2020-10-17T00:17:00-0400 : Update Error, Record Missing - Insert: actionGroup|--|E5F7E124-D523-4CF0-9D22-D9DB4AC8EC48
+2020-10-17T00:17:00-0400 : Update Error, Fetching: Failed to fetch some records
+2020-10-17T00:17:00-0400 : Update Fetch Complete
+2020-10-17T00:17:00-0400 : Updates Error This operation has been rate limited due to an earlier error: Error saving record <CKRecordID: 0x1018cc550; recordName=draft|--|9A9E044C-2452-438E-9DC9-7F09C619D180, zoneID=drafts:_8c81ff5e673c5095c9f9b6686391d40e> to server: Quota exceeded
+2020-10-17T00:17:01-0400 : Download Token Updated, Changes Saved
+2020-10-17T00:17:01-0400 : Sync Process Finished
+2020-10-17T00:49:41-0400 : CT:: insert, draft|--|0386C9AC-2038-4E96-B55A-E82D44BDEC86 - 2020-10-17 04:49:41 +0000)
+2020-10-17T00:49:41-0400 : Reachability: WiFi
+2020-10-17T00:53:22-0400 : Sync Process Started
+2020-10-17T00:53:22-0400 : Sync in progress, Skip, Last Start: Optional(2020-10-17 04:53:22 +0000)
+2020-10-17T00:53:23-0400 : Insert Error Error saving record <CKRecordID: 0x10033fb00; recordName=draft|--|E22C3A84-C50A-4714-BC0E-5150B772E729, zoneID=drafts:_8c81ff5e673c5095c9f9b6686391d40e> to server: Quota exceeded
+2020-10-17T00:53:23-0400 : Insert Error Error saving record <CKRecordID: 0x103a96b80; recordName=draft|--|68D7AF85-2F8D-49F0-A147-C0C3F46A89D7, zoneID=drafts:_8c81ff5e673c5095c9f9b6686391d40e> to server: Quota exceeded
+2020-10-17T00:53:23-0400 : Insert Error Error saving record <CKRecordID: 0x103a23990; recordName=draft|--|DFE29687-BFDA-400F-97B6-1C7DD8AECCEF, zoneID=drafts:_8c81ff5e673c5095c9f9b6686391d40e> to server: Quota exceeded
+2020-10-17T00:53:23-0400 : Insert Error Error saving record <CKRecordID: 0x1052bed90; recordName=draft|--|9A9E044C-2452-438E-9DC9-7F09C619D180, zoneID=drafts:_8c81ff5e673c5095c9f9b6686391d40e> to server: Quota exceeded
+2020-10-17T00:53:23-0400 : Insert Error Error saving record <CKRecordID: 0x1052efee0; recordName=draftVersion|--|DE916010-1888-4120-9809-84ECDDF744B5, zoneID=drafts:_8c81ff5e673c5095c9f9b6686391d40e> to server: Quota exceeded
+2020-10-17T00:53:23-0400 : Insert Error Error saving record <CKRecordID: 0x10520a440; recordName=draft|--|644EFA95-668E-484F-A3F6-40B1554DA173, zoneID=drafts:_8c81ff5e673c5095c9f9b6686391d40e> to server: Quota exceeded
+2020-10-17T00:53:23-0400 : Insert Error Error saving record <CKRecordID: 0x105210810; recordName=actionRequest|--|6B37DA9E-6278-48B1-9BB9-5E0DE3BD74B3, zoneID=drafts:_8c81ff5e673c5095c9f9b6686391d40e> to server: Quota exceeded
+2020-10-17T00:53:23-0400 : Insert Error Error saving record <CKRecordID: 0x105236c40; recordName=actionGroup|--|E5F7E124-D523-4CF0-9D22-D9DB4AC8EC48, zoneID=drafts:_8c81ff5e673c5095c9f9b6686391d40e> to server: Quota exceeded
+2020-10-17T00:53:23-0400 : Insert Error Error saving record <CKRecordID: 0x105666570; recordName=actionRequest|--|2BDC0AD0-95DF-4ACF-B820-B870BCDC100D, zoneID=drafts:_8c81ff5e673c5095c9f9b6686391d40e> to server: Quota exceeded
+2020-10-17T00:53:23-0400 : Insert Error Error saving record <CKRecordID: 0x10565bfc0; recordName=draft|--|0386C9AC-2038-4E96-B55A-E82D44BDEC86, zoneID=drafts:_8c81ff5e673c5095c9f9b6686391d40e> to server: Quota exceeded
+2020-10-17T00:53:23-0400 : Insert Error Failed to modify some records
+2020-10-17T00:53:24-0400 : Update Error, Record Missing - Insert: draft|--|9A9E044C-2452-438E-9DC9-7F09C619D180
+2020-10-17T00:53:24-0400 : Update Error, Record Missing - Insert: actionGroup|--|E5F7E124-D523-4CF0-9D22-D9DB4AC8EC48
+2020-10-17T00:53:24-0400 : Update Error, Fetching: Failed to fetch some records
+2020-10-17T00:53:24-0400 : Update Fetch Complete
+2020-10-17T00:53:24-0400 : Updates Error This operation has been rate limited due to an earlier error: Error saving record <CKRecordID: 0x10520a440; recordName=draft|--|644EFA95-668E-484F-A3F6-40B1554DA173, zoneID=drafts:_8c81ff5e673c5095c9f9b6686391d40e> to server: Quota exceeded
+2020-10-17T00:53:24-0400 : Download Token Updated, Changes Saved
+2020-10-17T00:53:24-0400 : Sync Process Finished
+2020-10-17T00:53:36-0400 : CT:: update, draft|--|644EFA95-668E-484F-A3F6-40B1554DA173 - 2020-10-17 04:53:36 +0000
+2020-10-17T00:53:37-0400 : Sync Process Started
+2020-10-17T00:53:37-0400 : Insert Error This operation has been rate limited due to an earlier error: Error saving record <CKRecordID: 0x10520a440; recordName=draft|--|644EFA95-668E-484F-A3F6-40B1554DA173, zoneID=drafts:_8c81ff5e673c5095c9f9b6686391d40e> to server: Quota exceeded
+2020-10-17T00:53:37-0400 : Update Error, Record Missing - Insert: draft|--|9A9E044C-2452-438E-9DC9-7F09C619D180
+2020-10-17T00:53:37-0400 : Update Error, Record Missing - Insert: actionGroup|--|E5F7E124-D523-4CF0-9D22-D9DB4AC8EC48
+2020-10-17T00:53:37-0400 : Update Error, Record Missing - Insert: draft|--|644EFA95-668E-484F-A3F6-40B1554DA173
+2020-10-17T00:53:37-0400 : Update Error, Fetching: Failed to fetch some records
+2020-10-17T00:53:37-0400 : Update Fetch Complete
+2020-10-17T00:53:37-0400 : Updates Error This operation has been rate limited due to an earlier error: Error saving record <CKRecordID: 0x10520a440; recordName=draft|--|644EFA95-668E-484F-A3F6-40B1554DA173, zoneID=drafts:_8c81ff5e673c5095c9f9b6686391d40e> to server: Quota exceeded
+2020-10-17T00:53:37-0400 : Download Token Updated, Changes Saved
+2020-10-17T00:53:37-0400 : Sync Process Finished
+2020-10-17T00:53:46-0400 : CT:: insert, draftVersion|--|24828AE0-D284-4905-9640-322AB27BCB42 - 2020-10-17 04:53:46 +0000)
+2020-10-17T00:53:46-0400 : CT:: update, draft|--|644EFA95-668E-484F-A3F6-40B1554DA173 - 2020-10-17 04:53:46 +0000
+2020-10-17T00:53:47-0400 : Sync Process Started
+2020-10-17T00:53:47-0400 : Insert Error This operation has been rate limited due to an earlier error: Error saving record <CKRecordID: 0x10520a440; recordName=draft|--|644EFA95-668E-484F-A3F6-40B1554DA173, zoneID=drafts:_8c81ff5e673c5095c9f9b6686391d40e> to server: Quota exceeded
+2020-10-17T00:53:47-0400 : Update Error, Record Missing - Insert: draft|--|9A9E044C-2452-438E-9DC9-7F09C619D180
+2020-10-17T00:53:47-0400 : Update Error, Record Missing - Insert: actionGroup|--|E5F7E124-D523-4CF0-9D22-D9DB4AC8EC48
+2020-10-17T00:53:47-0400 : Update Error, Record Missing - Insert: draft|--|644EFA95-668E-484F-A3F6-40B1554DA173
+2020-10-17T00:53:47-0400 : Update Error, Fetching: Failed to fetch some records
+2020-10-17T00:53:47-0400 : Update Fetch Complete
+2020-10-17T00:53:47-0400 : Updates Error This operation has been rate limited due to an earlier error: Error saving record <CKRecordID: 0x10520a440; recordName=draft|--|644EFA95-668E-484F-A3F6-40B1554DA173, zoneID=drafts:_8c81ff5e673c5095c9f9b6686391d40e> to server: Quota exceeded
+2020-10-17T00:53:47-0400 : Download Token Updated, Changes Saved
+2020-10-17T00:53:47-0400 : Sync Process Finished
+2020-10-17T00:53:47-0400 : CT:: insert, draftVersion|--|E2402591-2D05-4486-BF17-817B4EA17897 - 2020-10-17 04:53:47 +0000)
+2020-10-17T00:53:47-0400 : CT:: update, draft|--|DFE29687-BFDA-400F-97B6-1C7DD8AECCEF - 2020-10-17 04:53:47 +0000
+2020-10-17T00:53:49-0400 : Sync Process Started
+2020-10-17T00:53:49-0400 : Insert Error This operation has been rate limited due to an earlier error: Error saving record <CKRecordID: 0x10520a440; recordName=draft|--|644EFA95-668E-484F-A3F6-40B1554DA173, zoneID=drafts:_8c81ff5e673c5095c9f9b6686391d40e> to server: Quota exceeded
+2020-10-17T00:53:49-0400 : Update Error, Record Missing - Insert: draft|--|9A9E044C-2452-438E-9DC9-7F09C619D180
+2020-10-17T00:53:49-0400 : Update Error, Record Missing - Insert: actionGroup|--|E5F7E124-D523-4CF0-9D22-D9DB4AC8EC48
+2020-10-17T00:53:49-0400 : Update Error, Record Missing - Insert: draft|--|644EFA95-668E-484F-A3F6-40B1554DA173
+2020-10-17T00:53:49-0400 : Update Error, Record Missing - Insert: draft|--|DFE29687-BFDA-400F-97B6-1C7DD8AECCEF
+2020-10-17T00:53:49-0400 : Update Error, Fetching: Failed to fetch some records
+2020-10-17T00:53:49-0400 : Update Fetch Complete
+2020-10-17T00:53:49-0400 : Updates Error This operation has been rate limited due to an earlier error: Error saving record <CKRecordID: 0x10520a440; recordName=draft|--|644EFA95-668E-484F-A3F6-40B1554DA173, zoneID=drafts:_8c81ff5e673c5095c9f9b6686391d40e> to server: Quota exceeded
+2020-10-17T00:53:49-0400 : Download Token Updated, Changes Saved
+2020-10-17T00:53:49-0400 : Sync Process Finished
